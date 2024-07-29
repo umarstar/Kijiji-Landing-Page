@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Kijiji-Landing-Page/static/css/main.64c70b72.css",
+    "main.js": "/Kijiji-Landing-Page/static/js/main.40c2154c.js",
+    "static/js/453.8dae7b17.chunk.js": "/Kijiji-Landing-Page/static/js/453.8dae7b17.chunk.js",
+    "static/media/p3.jpg": "/Kijiji-Landing-Page/static/media/p3.b9be0dcaf547b8c39cf6.jpg",
+    "static/media/p2.jpg": "/Kijiji-Landing-Page/static/media/p2.80740c44c8f26089bfac.jpg",
+    "static/media/23.webp": "/Kijiji-Landing-Page/static/media/23.12056549f73552200957.webp",
+    "static/media/32.webp": "/Kijiji-Landing-Page/static/media/32.df305139b2dfac3470cc.webp",
+    "static/media/25.webp": "/Kijiji-Landing-Page/static/media/25.bda65feab5dc2978ce7a.webp",
+    "static/media/20.webp": "/Kijiji-Landing-Page/static/media/20.20a7c5dbc88334d4b297.webp",
+    "static/media/43.webp": "/Kijiji-Landing-Page/static/media/43.537af1b51a17bf6470bf.webp",
+    "static/media/27.webp": "/Kijiji-Landing-Page/static/media/27.40dd9d83f4a1e3d15c44.webp",
+    "static/media/p1.jpg": "/Kijiji-Landing-Page/static/media/p1.485971babe6fd3ac639e.jpg",
+    "static/media/33.webp": "/Kijiji-Landing-Page/static/media/33.e0c40827ed90005d8cab.webp",
+    "static/media/21.webp": "/Kijiji-Landing-Page/static/media/21.0d77659db04ac7e776af.webp",
+    "static/media/24.webp": "/Kijiji-Landing-Page/static/media/24.35da814731b5e9a7e93c.webp",
+    "static/media/31.webp": "/Kijiji-Landing-Page/static/media/31.cb937507fa7ab6c3e6bc.webp",
+    "static/media/42.webp": "/Kijiji-Landing-Page/static/media/42.725acb3464d095ccce6d.webp",
+    "static/media/22.webp": "/Kijiji-Landing-Page/static/media/22.82ed069aad2a763bffe0.webp",
+    "static/media/26.webp": "/Kijiji-Landing-Page/static/media/26.3f4662114c440abc8f28.webp",
+    "static/media/WTK-Banner-IYKYK.webp": "/Kijiji-Landing-Page/static/media/WTK-Banner-IYKYK.09c0465fcf25c0638b2e.webp",
+    "static/media/phone.webp": "/Kijiji-Landing-Page/static/media/phone.3cebadb48dfec8623f28.webp",
+    "static/media/41.webp": "/Kijiji-Landing-Page/static/media/41.728c4908023b496c1462.webp",
+    "index.html": "/Kijiji-Landing-Page/index.html",
+    "main.64c70b72.css.map": "/Kijiji-Landing-Page/static/css/main.64c70b72.css.map",
+    "main.40c2154c.js.map": "/Kijiji-Landing-Page/static/js/main.40c2154c.js.map",
+    "453.8dae7b17.chunk.js.map": "/Kijiji-Landing-Page/static/js/453.8dae7b17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64c70b72.css",
+    "static/js/main.40c2154c.js"
+  ]
+}
