@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Kijiji-Landing-Page/static/css/main.64c70b72.css",
-    "main.js": "/Kijiji-Landing-Page/static/js/main.40c2154c.js",
+    "main.js": "/Kijiji-Landing-Page/static/js/main.669a2183.js",
     "static/js/453.8dae7b17.chunk.js": "/Kijiji-Landing-Page/static/js/453.8dae7b17.chunk.js",
     "static/media/p3.jpg": "/Kijiji-Landing-Page/static/media/p3.b9be0dcaf547b8c39cf6.jpg",
     "static/media/p2.jpg": "/Kijiji-Landing-Page/static/media/p2.80740c44c8f26089bfac.jpg",
@@ -24,11 +24,11 @@
     "static/media/41.webp": "/Kijiji-Landing-Page/static/media/41.728c4908023b496c1462.webp",
     "index.html": "/Kijiji-Landing-Page/index.html",
     "main.64c70b72.css.map": "/Kijiji-Landing-Page/static/css/main.64c70b72.css.map",
-    "main.40c2154c.js.map": "/Kijiji-Landing-Page/static/js/main.40c2154c.js.map",
+    "main.669a2183.js.map": "/Kijiji-Landing-Page/static/js/main.669a2183.js.map",
     "453.8dae7b17.chunk.js.map": "/Kijiji-Landing-Page/static/js/453.8dae7b17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64c70b72.css",
-    "static/js/main.40c2154c.js"
+    "static/js/main.669a2183.js"
   ]
 }
