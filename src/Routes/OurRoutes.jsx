@@ -12,8 +12,11 @@ function OurRoutes() {
     
       <Router>
         <NavUpper/>
+        <LandingPage/>
         <Routes>
-          <Route path='' element={<LandingPage/>}/>
+          <Route path='/' component={<LandingPage/>}/>
+          
+          {/* <Route path='/' exact={true} element={<LandingPage/>}/> */}
           <Route path='/2' element={<h1>hy i am umar2</h1>}/>
           {/* <Route path='/3' element={<h1>hy i am umar3</h1>}/> */}
           
