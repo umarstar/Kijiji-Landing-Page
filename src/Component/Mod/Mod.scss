@@ -1,0 +1,22 @@
+@import "../../App.scss";
+
+.modal-content{
+    .menu_dropdown_otr{
+        .menu_dropdown_inr{
+            .menu_dropdown_ul{
+                .menu_dropdown_li{
+                    border-bottom: 1px solid rgb(210, 211, 215);
+                    margin-bottom: 18px;
+                    .heading-sb{
+                        padding: 12px 24px;
+                        color: gray;
+                        line-height: 2;
+                        font-weight: 500;
+                        font-size: 16px;
+                        line-height: 24px;
+                    }
+                }
+            }
+        }
+    }
+}

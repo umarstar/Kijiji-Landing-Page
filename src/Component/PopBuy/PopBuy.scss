@@ -1,0 +1,94 @@
+@import "../../App.scss";
+
+
+.Popular-buy{
+    .container-fluid{
+        .row-custom2{
+            @media only screen and (max-width: 992px) {
+                justify-content: center;
+            }
+            .left-side-otr{
+                width: 74% !important;
+                .wrapper{
+                    display: flex;
+                    justify-content: space-between;
+                    margin-bottom: 0.8rem;
+                    .pop-heading{
+                        font-size: 18px;
+                        line-height: 21px;
+                        color: rgb(62, 65, 83);
+                        font-weight: 400;
+                    }
+                    .popLink{
+                        display: flex;
+                        justify-content: center;
+                        align-items: center;
+                        transition: .4s;
+                        &:hover{
+                            .popLINk-inr{
+                                text-decoration: underline;
+                            }
+                        }
+                        .popLINk-inr{
+                            color: rgb(21, 94, 155);
+                            font-size: 15px;
+                            line-height: 18px;
+                            margin-bottom: 0px;
+                            
+                        }
+                    }
+                   
+                }
+                .row-custom3{
+                    gap: 20px 0px;
+                    .pop-box{
+                        .kaji-otr-img{
+                            position: relative;
+                            transition: .4s;
+                            &:hover{
+                                .btn-otr{
+                                    .btn-inr{
+                                        background-color: rgb(255, 255, 255);
+                                        color: rgb(55, 51, 115);
+                                        opacity: 0.9;
+                                    }
+                                }
+                            }
+                            .kajiImg{
+                                width: 100%;
+                                height: 187px;
+                                object-fit: cover;
+                                border-radius: 4px;
+                            }
+                            .btn-otr{
+                                display: flex;
+                                justify-content: center;
+                                align-items: center;
+                                position: absolute;
+                                top: 50%;
+                                left: 50%;
+                                transform: translate(-50%, -50%);
+                                width: 90%;
+                                .btn-inr{
+                                    transition: all 0.3s ease-in-out 0s;
+                                    background-color: rgba(55, 51, 115, 0.75);
+                                    padding: 0.5rem;
+                                    font-size: 18px;
+                                    line-height: 26px;
+                                    text-align: center;
+                                    border-radius: 2px;
+                                    color: rgb(255, 255, 255);
+                                    font-weight: 600;
+                                }
+                            }
+                        }
+                        
+                    }
+                }
+
+            }
+            
+        }
+    }
+}
+

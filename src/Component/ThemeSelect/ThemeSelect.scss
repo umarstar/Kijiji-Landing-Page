@@ -1,0 +1,99 @@
+@import "../../App.scss";
+
+
+.select_main {
+    position: relative;
+    width: 50%;
+    @media only screen and (max-width: 767px) {
+        width: 100%;
+    }
+    .dd_header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        width: 100%;
+        background-color: white;
+        border-left: 1px solid black;
+        padding: 19px 16px;
+        font-size:16px;
+        line-height: 24px;
+        gap: 12px;
+        border-radius: 4px;
+        @media only screen and (max-width: 767px) {
+            border: 1px solid black;
+
+        }
+        cursor: pointer;
+        .car1{
+            rotate: 180deg;
+        }
+        .dd_header_title {
+            color: black;
+            margin-bottom: 0px;
+        }
+
+        svg {
+            color: black;
+        }
+    }
+
+    .dd_list_otr {
+        position: absolute;
+        left: 0;
+        top: 50px;
+        width: 100%;
+        background-color: white;
+        // box-shadow: $Box-Shadow-Custom2;
+        padding: 12px 16px;
+        z-index: 5;
+        border-radius: 4px;
+        opacity: 0;
+        visibility: hidden;
+        transition: .3s;
+        transform: scaleY(0);
+        transform-origin: center top 0;
+        box-shadow: 5px 7px 35px 20px rgba(0,0,0,0.1),0px 10px 15px -3px rgba(0,0,0,0.1);
+        &.dd_list_active {
+            opacity: 1;
+            visibility: visible;
+            transform: scaleY(1);
+        }
+
+        .drop_ul {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            gap: 12px;
+        }
+       
+
+        .drop_li {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
+            cursor: pointer;
+
+            &:hover {
+                p {
+                    color: gray;
+                }
+
+                svg {
+                    color: gray;
+                    // transform: rotate(180deg);
+                }
+            }
+
+            p {
+                color: black;
+                transition: .3s;
+            }
+
+            svg {
+                color: black;
+                transition: .3s;
+            }
+        }
+    }
+}
